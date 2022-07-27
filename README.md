@@ -6,7 +6,7 @@ Why doesn't someone just say this, the bare minimum cheat sheet for checking you
 This is what a final English writing exam should be in it's entirety, and I mean ONE PAGE ONLY:
 
 
-Q1) Here is a grammatically bad sentence, fix it by bring the subject and verb forward as best you can:
+Q1) Here is a grammatically bad sentence, fix it by bringing the subject and verb forward as best you can:
 
 ... something something ... subject and verb appear late in the sentence.
 
