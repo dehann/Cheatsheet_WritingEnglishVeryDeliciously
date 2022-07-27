@@ -31,4 +31,4 @@ Why is this prose boring me out of my mind?  Remember to write active (not passi
 - She is likely to win.
 - She is winning.
 
-Guess what, she won.  Good writing will set you free!  Or, if you seek to become a Jedi, Yoda would say: "winning, she is".
+Guess what, she won.  Good writing will set you free!  Or, if you seek to become a writing Jedi, Yoda would say: "winning, she is".
