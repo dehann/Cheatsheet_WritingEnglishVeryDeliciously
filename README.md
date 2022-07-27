@@ -1,5 +1,5 @@
 # Cheatsheet_WritingEnglishDeliciously
-Why doesn't someone just say this, the bare minimum cheat sheet for checking your sentences.  What's the point of a final English writing exam if you don't walk away with these few crux lessions?  Maybe the entire writing test should just be ONE PAGE ONLY, with questions something like this:
+Why doesn't someone just say this, the bare minimum cheat sheet for checking your sentences.  What's the point of a final English writing exam if you don't walk away with these few crux lessons?  Maybe the entire writing test should just be ONE PAGE ONLY, with questions something like this:
 
 
 ### Q1) 
