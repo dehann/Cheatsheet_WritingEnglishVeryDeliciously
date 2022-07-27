@@ -22,8 +22,6 @@ Commagedon, yes please say that again?  Each phrase of a sentence needs to compl
 
 The happy and lazy brown fox jumped, over the fence.
 
-(These questions should help show you why this is also a grammatically poor sentence).
-
 ### Q4)
 
 Why is this prose boring me out of my mind?  Remember to write active (not passive) sentences, and in 3rd person if that's your fancy.  Passive sentences can usually be identified as being wordy or verbs having suffixes.  Try rewriting this sentence in the active form:
