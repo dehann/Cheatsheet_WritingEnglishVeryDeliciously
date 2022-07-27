@@ -11,7 +11,7 @@ Q1) Here is a grammatically bad sentence, fix it by bringing the subject and ver
 ... something something ... subject and verb appear late in the sentence.
 
 
-Q2) From a past tense paragraph, fix the tense of this sentence to match:
+Q2) A paragraph should have a consistent tense.  Assuming this example is from a past tense paragraph, fix the tense of this sentence to match:
 
 ... something something ... mixed tense sentence.
 
