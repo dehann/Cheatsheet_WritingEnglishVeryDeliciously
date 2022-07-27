@@ -31,14 +31,10 @@ The happy and lazy brown fox jumped, over the fence.
 
 Why is this prose boring me out of my mind?  Remember to write active (not passive) sentences, and in 3rd person if that's your fancy.  Passive sentences can usually be identified as being wordy or verbs having suffixes.  Try rewriting this sentence in the active form:
 
-It seems likely that she'd be the winner.
-vs
-She is the likely winner.
-vs
-She is likely to win.
-vs
-She is winning.
-
-She won.
+- It seems likely that she'd be the winner.
+- She is the likely winner.
+- She is likely to win.
+- She is winning.
+- She won.
 
 Good writing will set you free!
