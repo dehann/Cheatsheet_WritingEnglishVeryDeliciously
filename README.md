@@ -22,6 +22,7 @@ Commagedon, yes please say that again?  Each phrase of a sentence needs to compl
 
 The happy and lazy brown fox jumped, over the fence.
 
+(These questions should help show you why this is also a grammatically poor sentence).
 
 ### Q4)
 
