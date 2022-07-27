@@ -35,6 +35,5 @@ Why is this prose boring me out of my mind?  Remember to write active (not passi
 - She is the likely winner.
 - She is likely to win.
 - She is winning.
-- She won.
 
-Good writing will set you free!
+Guess what, she won.  Good writing will set you free!
